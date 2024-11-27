@@ -1,0 +1,31 @@
+{
+  "name": "react-component",
+  "version": "0.0.0",
+  "module": "dist/module.mjs",
+  "browser": "dist/browser.umd.js",
+  "types": "./types",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "https": "vite --https --host"
+  },
+  "dependencies": {
+    "@galacean/editor-decorators": "0.0.8",
+    "@galacean/engine": "/Users/sway007/git-repos/engine/packages/galacean",
+    "@galacean/engine-shader-lab": "/Users/sway007/git-repos/engine/packages/shader-lab",
+    "@galacean/engine-toolkit": "/Users/sway007/git-repos/engine-toolkit/packages/galacean-engine-toolkit",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vconsole": "^3.15.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "typescript": "^5.5.4",
+    "vite": "^4"
+  },
+  "main": "/main.js"
+}

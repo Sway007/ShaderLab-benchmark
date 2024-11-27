@@ -1,0 +1,12 @@
+{
+  "url": "https://mdn.alipayobjects.com/oasis_be/afts/file/A*2SnlRK30SBsAAAAAAAAAAAAADkp5AQ/project.json",
+  "engineVersion": "1.3.8",
+  "physics": 0,
+  "xr": 0,
+  "webGLRendererOptions": {
+    "webGLMode": 0,
+    "antialias": true,
+    "alpha": true,
+    "preserveDrawingBuffer": false
+  }
+}
